@@ -1,0 +1,63 @@
+@import 
+  url('https://fonts.googleapis.com/css?family=Comfortaa');
+/* ============== Tag Styles ============== */
+body{
+  font-family: 'Comfortaa', cursive; 
+  background-color: #7FDBFF;
+}
+
+h2 {
+  padding-top: 40px;
+  text-align: center;
+  color: darkgray;
+  font-size: 3.2em
+  
+}
+
+img{
+  margin-right: 10px;
+  margin-bottom: -22px;
+  
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+/* ============== Class Styles ============== */
+.weather-box{
+  width: 400px;
+  height: 500px;
+  background-color: white;
+  margin: 40px auto;
+  border-radius: 10%;
+}
+.panel-style{
+  width: 80%;
+  height: 75%;
+  margin: 0 auto;
+  padding-top: 40px;
+  color: darkgray;
+  text-align: center
+}
+
+.panel-style p {
+  font-size: 2em;
+  
+}
+
+.condition-box{
+  margin-bottom: -10px;
+}
+
+.city-style{
+  margin-bottom: -10px;
+}
+
+.condition-box{
+  font-size: 1.2em;
+}
+/* ============== Id Styles ============== */
+#tempClick{
+  color: #7FDBFF;
+}
